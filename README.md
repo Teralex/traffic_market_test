@@ -7,7 +7,7 @@ In project directory
 - make migrate
 - make seed
 
-Aftre that routes:
+Routes:
 - GET {host}/api/articles
 - GET {host}/api/articles/1
 - PUT {host}/api/articles/changeStatus
